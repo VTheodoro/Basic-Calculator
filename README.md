@@ -15,7 +15,7 @@ A calculadora realiza as operações básicas de soma, subtração, multiplicaç
 
 ## Contribuidor
 
-- **[(Victor Theodoro)](https://github.com/VTheodoro)**: Implementação da calculadora.
+- **[Victor Theodoro](https://github.com/VTheodoro)**: Implementação da calculadora.
 
 ## Licença
 
