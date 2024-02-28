@@ -20,3 +20,6 @@ A calculadora realiza as operações básicas de soma, subtração, multiplicaç
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+### Nota
+Este é o um dos meus primeiros projetos em C# que contém interfaçe.
