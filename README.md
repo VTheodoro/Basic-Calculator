@@ -1,25 +1,31 @@
-## Calculadora Básica em C#
+## Basic Calculator in C#
 
-Este repositório contém os arquivos do projeto de uma calculadora básica desenvolvida em C# utilizando o Visual Studio e Windows Forms para a interface gráfica. O projeto foi proposto pelo professor **[Ramon](https://github.com/ramtrigodev)** durante a aula de Desenvolvimento de Sistemas.
+This repository contains the project files for a basic calculator developed in C# using Visual Studio and Windows Forms for the graphical interface. The project was proposed by Professor **[Ramon](https://github.com/ramtrigodev)** during the Systems Development class.
 
-## Funcionalidades
+## Features
 
-A calculadora realiza as operações básicas de soma, subtração, multiplicação e divisão.
+The calculator performs basic operations such as addition, subtraction, multiplication, and division.
 
-## Como Usar
+<div align="left">  
+<h2>Technologies Used</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60"/>
+</div>
 
-1. Abra o projeto no Visual Studio.
-2. Execute o projeto para abrir a calculadora.
-3. Insira dois números.
-4. Clique no botão que corresponde ao tipo de operação que você deseja para realizar o cálculo e vizualizar o resultado.
+## How to Use
 
-## Contribuidor
+1. Open the project in Visual Studio.
+2. Run the project to open the calculator.
+3. Enter two numbers.
+4. Click on the button corresponding to the type of operation you want to perform to calculate and view the result.
 
-- **[Victor Theodoro](https://github.com/VTheodoro)**: Implementação da calculadora.
+## Contributor
 
-## Licença
+- **[Victor Theodoro](https://github.com/VTheodoro)**: Calculator implementation.
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+## License
 
-### Nota
-Este é o um dos meus primeiros projetos em C# que contém interfaçe.
+This project is licensed under the [MIT License](LICENSE).
+
+### Note
+This is one of my first projects in C# with a graphical interface.
